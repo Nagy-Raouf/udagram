@@ -46,15 +46,15 @@ The project is build using angular framework and Nodejs (express).
 
 ### Scripts
 In the root directory of the project:
-`frontend:install`: install frontend dependencies.
-`frontend:start`: start frontend
-`frontend:build`: build frontend.
-`frontend:test`: test frontend
-`frontend:e2e`: end to end testing
-`frontend:lint`: lint frontend
-`frontend:deploy`: deploy the project to S3 (uses deploy.sh script).
-`api:install`: install api dependencies.
-`api:build`: build api and zip its content
-`api:start`: start api
-`api:deploy`: deploy api on EB (uses deploy.sh script).
-`deploy`: delpoy both the frontend and backend
+- `frontend:install`: install frontend dependencies.
+- `frontend:start`: start frontend
+- `frontend:build`: build frontend.
+- `frontend:test`: test frontend
+- `frontend:e2e`: end to end testing
+- `frontend:lint`: lint frontend
+- `frontend:deploy`: deploy the project to S3 (uses deploy.sh script).
+- `api:install`: install api dependencies.
+- `api:build`: build api and zip its content
+- `api:start`: start api
+- `api:deploy`: deploy api on EB (uses deploy.sh script).
+- `deploy`: delpoy both the frontend and backend
