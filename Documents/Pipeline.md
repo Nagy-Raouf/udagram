@@ -1,6 +1,5 @@
 ## pipeline
 ### Circle ci
-The order of the run jobs:
 - build
     - Setting Env Variables.
     - Install NodeJS 14.15.
